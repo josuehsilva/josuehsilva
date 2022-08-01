@@ -1,7 +1,5 @@
 ### What's up? I'm Josué Henrique.
 
-- 🤖 I am learning about C and Javascript
-
 <br>
 <div align="center">
   <a href="https://github.com/josuehsilva">
